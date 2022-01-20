@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SteamCollectionBetter
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @updateURL    https://github.com/SmileyZomb/SteamCollection-Better/raw/main/SteamCollectionBetter.user.js
 // @downloadURL  https://github.com/SmileyZomb/SteamCollection-Better/raw/main/SteamCollectionBetter.user.js
 // @description  try to take over the world!
