@@ -2,6 +2,8 @@
 // @name         SteamCollectionBetter
 // @namespace    http://tampermonkey.net/
 // @version      0.2
+// @updateURL     https://github.com/SmileyZomb/SteamCollection-Better/raw/main/SteamCollectionBetter.user.js
+// @downloadURL   https://github.com/SmileyZomb/SteamCollection-Better/raw/main/SteamCollectionBetter.user.js
 // @description  try to take over the world!
 // @author       SmileyZomb
 // @match        https://steamcommunity.com/sharedfiles/managecollection/?id=*
